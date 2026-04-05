@@ -27,8 +27,6 @@ System Engineering Student from Nicaragua
 
 <b>My GitHub Stats</b>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bradlygutierrez?cardType=github&theme=synthwave&fontFamily=Geist%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false">    <img  alt="bradlygutierrez's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/bradlygutierrez?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false" />  </a>
 
 <a href="http://www.github.com/bradlygutierrez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bradlygutierrez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/bradlygutierrez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradlygutierrez&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
